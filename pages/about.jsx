@@ -7,7 +7,7 @@ import PageHeader from "@/components/PageHeader";
 export function getStaticProps() {
     return new Promise((resolve, reject) => {
         // Call an external API endpoint to get posts
-        fetch("https://repulsive-shrug-crow.cyclic.app//api/movies/573a139af29313caabcf0859")
+        fetch("https://elated-capris-moth.cyclic.app//api/movies/573a139af29313caabcf0859")
             .then(res => res.json())
             .then(data => {
                 resolve({ props: { staticPost: data } })

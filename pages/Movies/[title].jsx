@@ -6,13 +6,13 @@ import PageHeader from '@/components/PageHeader';
 
 export default function Movie() {
     const router = useRouter();
-    const {title} = router.query();
-    const { data, error } = useSWR(`https://repulsive-shrug-crow.cyclic.app//api/movies?page=1&perPage=10&title=${title}`)
+    const {title} = router.query;
+    const { data, error } = useSWR(`https://elated-capris-moth.cyclic.app/api/movies?page=1&perPage=10&title=${title}`)
 
     if (!data) {
         return null;
     } 
-    if (data.lenght === 0){
+    if (data.length === 0){
         return <Error statusCode={404}/>
     }
 
