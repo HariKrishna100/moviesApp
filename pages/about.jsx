@@ -35,7 +35,7 @@ export default function About({ staticPost }) {
                         I am open to connecting with other professionals in the field, so feel free to reach out if you would
                         like to connect or discuss potential opportunities.
 
-                        It's difficult to choose a favourite, but  
+                        It`&apos;`s difficult to choose a favourite, but  
 
                     <Link href="/movies/Dark City" legacyBehavior>
                         <a>&quot;Dark City&quot;</a>

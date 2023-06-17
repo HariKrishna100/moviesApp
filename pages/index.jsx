@@ -5,7 +5,7 @@ import Accordion from 'react-bootstrap/Accordion';
 import MovieDetails from '@/components/MovieDetails';
 import PageHeader from '@/components/PageHeader';
 
-export default function index() {
+export default function Home() {
   let [ page, setPage ] = useState(1);
   let [ pageData, setPageData ] = useState([]);
 
