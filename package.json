@@ -22,13 +22,5 @@
   "main": "next.config.js",
   "devDependencies": {},
   "author": "Harikrishna Paresh Patel",
-  "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/HariKrishna100/moviesApp.git"
-  },
-  "bugs": {
-    "url": "https://github.com/HariKrishna100/moviesApp/issues"
-  },
-  "homepage": "https://github.com/HariKrishna100/moviesApp#readme"
+  "license": "ISC"
 }
