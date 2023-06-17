@@ -6,6 +6,7 @@
  *
  * Name: Harikrishna Paresh Patel Student ID: 150739217 Date: 06/14/2023
  *
+ *  Netlify Web App URL: https://dynamic-mandazi-116bfa.netlify.app/
  *
  ********************************************************************************/
 
