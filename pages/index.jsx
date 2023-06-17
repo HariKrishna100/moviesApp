@@ -1,3 +1,14 @@
+/*********************************************************************************
+* WEB422 – Assignment 3
+* I declare that this assignment is my own work in accordance with Seneca Academic Policy.
+* No part of this assignment has been copied manually or electronically from any other source
+* (including web sites) or distributed to other students.
+*
+* Name: Harikrishna Paresh Patel Student ID: 150739217 Date: 06/14/23
+*
+*
+********************************************************************************/ 
+
 import React, { useState, useEffect } from "react"
 import useSWR from 'swr';
 import Pagination from 'react-bootstrap/Pagination'
